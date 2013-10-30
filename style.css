@@ -1,3 +1,13 @@
+body {
+	background-color: #407db0;
+}
+
 h1 {
-	color: #159ac7;
+	color: #ffffff; 
+	font-family: 'News Cycle', sans-serif;
+	font-weight: bold;
+}
+
+p {
+	color: #d64a38;
 }
