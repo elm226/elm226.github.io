@@ -1,13 +1,22 @@
+#container {
+	max-width: 600px;
+	margin: 0 auto;
+}
 body {
 	background-color: #407db0;
 }
 
 h1 {
 	color: #ffffff; 
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Homemade Apple', helvetica, sans-serif;
 	font-weight: bold;
+}
+h2 {color: #9c9c9c; 
+	font-family: 'News Cycle', sans-serif;
+
 }
 
 p {
-	color: #d64a38;
+	color: #ffffff;
+	font-family: 'News Cycle', sans-serif;
 }
