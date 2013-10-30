@@ -1,5 +1,5 @@
 #container {
-	max-width: 600px;
+	max-width: 90%;
 	margin: 0 auto;
 }
 body {
@@ -19,4 +19,18 @@ h2 {color: #9c9c9c;
 p {
 	color: #ffffff;
 	font-family: 'News Cycle', sans-serif;
+}
+aside {
+	float: left;
+	width: 25%;
+	margin-left:20px;
+	}
+section {
+	float: left;
+	width: 70%;
+	}
+footer {
+	color: #ffffff; 
+	font-family: 'Homemade Apple', helvetica, sans-serif;
+	clear:both;
 }
